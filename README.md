@@ -8,8 +8,8 @@ If you find anything that need changing, please do so
 I created this script on a smartphone,I've upploaded a screenshot 
 on how it looks. 
 
-##Screenshot
+## Screenshot
 
-[]!(./screenshot.jpg)
+![](./screenshot.jpg)
 
 
